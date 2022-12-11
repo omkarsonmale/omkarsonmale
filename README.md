@@ -1,4 +1,4 @@
-[![MasterHead](https://thumbs.dreamstime.com/z/business-analysis-concept-characters-interface-to-tracking-website-interaction-order-chart-virtual-shopping-digital-180067047.jpg)](https://thumbs.dreamstime.com/z/business-analysis-concept-characters-interface-to-tracking-website-interaction-order-chart-virtual-shopping-digital-180067047.jpg)
+[![MasterHead](https://thumbs.dreamstime.com/z/business-analysis-concept-characters-interface-to-tracking-website-interaction-order-chart-virtual-shopping-digital-180067047.jpg)]
 <h1 align="center">Hi 👋, I'm Omkar Sonmale</h1>
 <h3 align="center">3rd year Engineering Student</h3>
 (img align="right" alt="Coding" width="400" src="https://www.jobstreet.com.ph/en/cms/employer/wp-content/uploads/sites/19/2020/01/main-image.jpg")
