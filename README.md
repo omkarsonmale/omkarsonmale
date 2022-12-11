@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on **Distributed Learning Management System**
 
-- 💬 Ask me about **HTML,CSS,Javascript,React.js & C++**
-
 - 🌱 I’m currently learning **Frontend using MERN stack**
 
 - 👯 I’m looking to collaborate on **Web Development projects**
 
 - 📫 How to reach me **omkarsonmale2505@gmail.com**
+
+- 💬 Ask me about **HTML,CSS,Javascript,React.js & C++**
 
 - ⚡ Fun fact **I am an Engineering Student**
 
