@@ -1,19 +1,16 @@
 <h1 align="center">Hi 👋, I'm Omkar Sonmale</h1>
 <h3 align="center">Final  year Engineering Student</h3>
-<img align="right" alt="Coding" width="400" src="https://www.jobstreet.com.ph/en/cms/employer/wp-content/uploads/sites/19/2020/01/main-image.jpg"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omkarsonmale&label=Profile%20views&color=0e75b6&style=flat" alt="omkarsonmale" /> </p>
 
-- 🔭 I’m currently working on **FeedBack Form System**
+- 🔭  I’m passionate about Programming  and Front-end Development
 
-- 🌱 I’m currently learning **Frontend using MERN stack**
+- 🌱  I’m currently expanding my knowledge of Front-end Development
 
-- 👯 I’m looking to collaborate on **Web Development projects**
+- 👯  I’m looking to collaborate on ReactJs.
+
+- ✨I'm currently learning Full-stack Development 
 
 - 📫 How to reach me **omkarsonmale2505@gmail.com**
-
-- 💬 Ask me about **HTML,CSS,Javascript,React.js & C++**
-
-- ⚡ Fun fact **I am an Engineering Student**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
