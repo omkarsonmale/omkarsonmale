@@ -4,9 +4,9 @@
 
 - 🔭  I’m passionate about Programming  and Front-end Development
 
-- 🌱  I’m currently expanding my knowledge of Front-end Development
+- 🌱  I’m currently expanding my knowledge of Software Development
 
-- 👯  I’m looking to collaborate on ReactJs.
+- 👯  I’m looking to collaborate on Full-Stack Development.
 
 - ✨I'm currently learning Full-stack Development 
 
