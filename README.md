@@ -1,5 +1,4 @@
 <h1 align="left">💫 About Me: </h1>
-<h3 align="center">Final  year Engineering Student</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omkarsonmale&label=Profile%20views&color=0e75b6&style=flat" alt="omkarsonmale" /> </p>
 
 - 🔭  I’m passionate about Programming  and Front-end Development
