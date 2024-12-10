@@ -1,4 +1,7 @@
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omkarsonmale" alt="omkarsonmale" /></a> </p>
+<h1 align="center">💫 About Me:</h1>
+- 🔭 I’m **currently learning and practicing Data Structures (DS) and algorithms.**
+
+- 🌱 I’m **currently exploring and contributing to full-stack technologies, including .NET, SQL Server, and the MERN stack.**
 
 - 📫 How to reach me **omkarsonmale2505@gmail.com**
 
