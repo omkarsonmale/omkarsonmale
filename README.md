@@ -1,9 +1,9 @@
 <h1 align="left">💫 About Me:</h1> 
-- 🔭 I’m currently learning and practicing Data Structures (DS) and algorithms.
+ 🔭 I’m currently learning and practicing Data Structures (DS) and algorithms.
 
-- 🌱 I’m currently exploring and contributing to full-stack technologies, including .NET, SQL Server, and the MERN stack.
+ 🌱 I’m currently exploring and contributing to full-stack technologies, including .NET, SQL Server, and the MERN stack.
 
-- 📫 How to reach me: omkarsonmale2505@gmail.com
+ 📫 How to reach me: omkarsonmale2505@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
