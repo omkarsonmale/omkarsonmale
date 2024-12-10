@@ -1,7 +1,7 @@
 <h1 align="left">💫 About Me: </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omkarsonmale&label=Profile%20views&color=0e75b6&style=flat" alt="omkarsonmale" /> </p>
 
-- 🔭  I’m passionate about Programming  and Front-end Development
+- 🔭   I’m currently learning and Practicing Data Structures (DS) and algorithms.
 
 - 🌱  I’m currently expanding my knowledge of Software Development
 
