@@ -3,11 +3,7 @@
 
 - 🔭   I’m currently learning and Practicing Data Structures (DS) and algorithms.
 
-- 🌱  I’m currently expanding my knowledge of Software Development
-
-- 👯  I’m looking to collaborate on Full-Stack Development.
-
-- ✨I'm currently learning Full-stack Development 
+- 🌱  I’m currently Exploring and contributing to full-stack technologies, including .NET, SQL Server, and the MERN stack.
 
 - 📫 How to reach me **omkarsonmale2505@gmail.com**
 
